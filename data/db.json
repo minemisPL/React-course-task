@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Bułeczka pasztecikowa"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Bułeczka słodka"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Bułeczka makowa"
+    }
+  ]
+}
